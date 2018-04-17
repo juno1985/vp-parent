@@ -93,5 +93,6 @@
 	</pluginRepositories>
 	<modules>
 		<module>../vp-rest</module>
+		<module>../vp-mgt-web</module>
 	</modules>
 </project>
