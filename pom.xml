@@ -92,5 +92,6 @@
 		<module>../vp-rest</module>
 		<module>../vp-mgt-web</module>
 		<module>../vp-common</module>
+		<module>../vp-auth</module>
 	</modules>
 </project>
